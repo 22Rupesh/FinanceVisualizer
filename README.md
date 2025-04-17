@@ -1,4 +1,4 @@
-Personal Finance Visualizer
+**Personal Finance Visualizer**
 A simple and intuitive web application to track personal finances, visualize spending habits, and set monthly budgets. Built using modern web technologies with a focus on clean UI, responsive design, and error handling.
 
 Live Site: https://finance-visualizer-reactjs-website.vercel.app
