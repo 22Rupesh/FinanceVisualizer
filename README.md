@@ -57,7 +57,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/22Rupesh/finance-visualizer.git
+git clone https://github.com/22Rupesh/FinanceVisualizer.git
 cd finance-visualizer
 
 # Install dependencies
